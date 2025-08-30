@@ -1,0 +1,12 @@
+START
+ OUTPUT "Are all the ingredients 
+ are compelte?"
+ IF no then Buy Ingredients 
+ ELSE
+ SHAPE well and shape into Circle
+ ADD sauces and toppings
+ PLACE pizza In the oven
+ WAIT 10-15 minutes
+ REMOVE from Oven
+ Serve
+END
